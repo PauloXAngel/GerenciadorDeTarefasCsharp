@@ -1,0 +1,15 @@
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\bin\Debug\net9.0\GerenciadorDeTarefasCsharp.exe
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\bin\Debug\net9.0\GerenciadorDeTarefasCsharp.deps.json
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\bin\Debug\net9.0\GerenciadorDeTarefasCsharp.runtimeconfig.json
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\bin\Debug\net9.0\GerenciadorDeTarefasCsharp.dll
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\bin\Debug\net9.0\GerenciadorDeTarefasCsharp.pdb
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.sourcelink.json
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.dll
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\refint\GerenciadorDeTarefasCsharp.dll
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.pdb
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\GerenciadorDeTarefasCsharp.genruntimeconfig.cache
+C:\Users\Angelo\Desktop\projetos\GerenciadorDeTarefasCsharp\obj\Debug\net9.0\ref\GerenciadorDeTarefasCsharp.dll
